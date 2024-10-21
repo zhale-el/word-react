@@ -1,5 +1,5 @@
-const Background = () => {
-  return <div>background</div>;
+const BackgroundImage = () => {
+  return <div className="bg" />;
 };
 
-export default Background;
+export default BackgroundImage;
